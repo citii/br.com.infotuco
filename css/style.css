@@ -120,9 +120,7 @@ li,
 ol {
      margin: 0px;
      padding: 0px;
-     list-style: none;
 }
-
 p {
      margin: 20px;
      font-weight: 400;
@@ -150,15 +148,11 @@ a {
 	text-align: center;
 	margin-top: 55px;
 }
-.resolucao{
-	width: 500px;
-	height: 100px;
-}
 .header{ 
 	width: 100%;
 	width: 100%;
 	float: left;
-	background-color: #072833;
+	background-color: #e46c02;
 	padding-bottom: 10px;
 	padding-top: 10px;
 }
@@ -306,7 +300,7 @@ a {
 .written_text{
 	width: 100%;
 	float: left;
-	background-color: #072833;
+	background-color: white;
 	height: auto;
 	padding: 20px;
 }
@@ -314,7 +308,7 @@ a {
 .written_text{
 	width: 100%;
 	float: left;
-	color: #ffffff;
+	color: black;
 	margin-top: 20px;
 }
 .like_icon{
@@ -324,7 +318,7 @@ a {
 .quote_section{
 	width: 100%;
 	float: left;
-	background-color: #076787;
+	background-color:yellow;
 	height: auto;
 	padding: 20px;
 	font-weight: bold;
@@ -373,7 +367,7 @@ a {
 .lets_touch_main{
 	width: 100%;
 	float: left;
-	background-color: #072833;
+	background-color: #d9d9d9;
 	padding-top: 40px;
 	padding-bottom: 40PX;
 }
@@ -392,9 +386,9 @@ a {
     font-size: 1rem;
     line-height: 1.5;
     color: #495057;
-    background-color: #072833;
+    background-color: #d9d9d9;
     background-clip: padding-box;
-    border: 1px solid #072833;
+    border: 1px solid #d9d9d9;
     border-radius: 0px;
     border: 0px;
 }
@@ -436,7 +430,7 @@ a {
 .copyright{
 	width: 100%;
 	float: left;
-	background-color: #076787;
+	background-color: #e46c02;
 	padding-top: 10px;
 	padding-bottom: 10px;
 
@@ -481,7 +475,7 @@ button.main_bt {
 }
 
 .email-bt{
-	background: #072833;
+	background: #d9d9d9;
     border: none;
     color: #fff;
     width: 100%;
@@ -493,7 +487,7 @@ button.main_bt {
 }
 
 .massage-bt{
-	background: #072833;
+	background: #d9d9d9;
     border: none;
     color: #fff;
     width: 100%;
@@ -562,7 +556,7 @@ button.main_bt {
 }
 
 .date-bt {
-    background: #072833;
+    background: #e46c02;
     border: none;
     color: #fff;
     width: 110px;
@@ -631,4 +625,18 @@ button.main_bt {
     background: #10b5fa;
     color: #fff;
     
+}
+.imgParceiros{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.ulli {
+	margin: 20px;
+     font-weight: 400;
+     font-size: 15px;
+     line-height: 24px;
+}
+.imgQuemsomos{
+	
 }
