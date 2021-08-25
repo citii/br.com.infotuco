@@ -100,7 +100,7 @@
 
 .timeline__content {
 	background-color: #fff;
-	border: 1px solid #9dc15b;
+	border: 1px solid #e5d30e;
 	border-radius: 0px;
 	color: #333;
 	display: block;
@@ -158,7 +158,7 @@
 }
 
 .timeline--horizontal .timeline-divider {
-	background-color: #9dc15b;
+	background-color: #e5d30e;
 	display: block;
 	height: 4px;
 	left: 40px;
@@ -214,7 +214,7 @@
 .timeline--horizontal .timeline__item .timeline__content:before {
 	border-left: 12px solid transparent;
 	border-right: 12px solid transparent;
-	border-top: 12px solid #9dc15b;
+	border-top: 12px solid #e5d30e;
 	left: 50%;
 	right: auto;
 	-webkit-transform: translateX(-50%);
@@ -248,7 +248,7 @@
 }
 
 .timeline--horizontal .timeline__item--bottom .timeline__content:before {
-	border-bottom: 12px solid #9dc15b;
+	border-bottom: 12px solid #e5d30e;
 	border-left: 12px solid transparent;
 	border-right: 12px solid transparent;
 	border-top: none;
@@ -267,7 +267,7 @@
 
 .timeline-nav-button {
 	background: #333333;
-	border: 2px solid #9dc15b;
+	border: 2px solid #e5d30e;
 	border-radius: 50px;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
