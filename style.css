@@ -734,7 +734,7 @@ a img.aligncenter {
 	position: relative;
 	display: inline-block;
 	font-size: 18px;
-	color: #333333;
+	color: #ffffff;
 	padding: 13px 40px;
 	font-weight: 500;
 }
@@ -757,7 +757,7 @@ a img.aligncenter {
 }
 
 .big-tagline a.hover-btn-new:hover span {
-  color: #e5d30e;
+  color: #D9580D;
 }
 
 .hover-btn-new::before {
@@ -908,7 +908,7 @@ a img.aligncenter {
 }
 
 .first-section h2 strong{
-	color: #e5d30e;
+	color: #F2A172;
 }
 
 .first-section .lead {
@@ -1042,7 +1042,7 @@ a img.aligncenter {
 
 .message-box a.hover-btn-new::before,
 .message-box a.hover-btn-new::after {
-  background: #e5d30e;
+  background: #F2A172;
   content: '';
   position: absolute;
   z-index: 1;
@@ -2570,7 +2570,7 @@ select.mobile-device {
 	line-height: 32px;
 }
 .footer-links-soi li a:hover{
-	background: #e5d30e;
+	background: #F2A172;
 }
 .footer-links-soi li a:hover i{
 	color: #ffffff;
